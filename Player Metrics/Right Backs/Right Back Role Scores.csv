@@ -1,0 +1,333 @@
+player,team,league,progression_score,defensive_score,attacking_score,age
+Ben White,Arsenal,ENG-Premier League,76.37,91.95,75.26,26
+Matty Cash,Aston Villa,ENG-Premier League,51.22,90.1,78.75,26
+Adam Smith,Bournemouth,ENG-Premier League,36.78,67.47,56.69,32
+Max Aarons,Bournemouth,ENG-Premier League,61.75,59.7,53.71,24
+Aaron Hickey,Brentford,ENG-Premier League,44.57,41.38,17.39,21
+Jack Hinshelwood,Brighton,ENG-Premier League,33.83,60.98,44.75,18
+James Milner,Brighton,ENG-Premier League,49.43,45.33,69.12,38
+Joël Veltman,Brighton,ENG-Premier League,38.21,78.08,27.59,32
+Connor Roberts,Burnley,ENG-Premier League,65.09,45.48,45.74,28
+Lorenz Assignon,Burnley,ENG-Premier League,31.23,49.34,53.5,23
+Vitinho,Burnley,ENG-Premier League,54.81,74.48,70.76,24
+Malo Gusto,Chelsea,ENG-Premier League,60.16,81.44,77.57,20
+Joel Ward,Crystal Palace,ENG-Premier League,68.91,67.33,40.5,34
+Nathaniel Clyne,Crystal Palace,ENG-Premier League,52.66,49.17,0.0,33
+Ashley Young,Everton,ENG-Premier League,58.02,68.68,78.17,38
+Ben Godfrey,Everton,ENG-Premier League,40.97,56.33,37.98,26
+Nathan Patterson,Everton,ENG-Premier League,58.02,68.09,64.64,22
+Kenny Tete,Fulham,ENG-Premier League,42.5,60.73,34.54,28
+Timothy Castagne,Fulham,ENG-Premier League,62.05,84.89,74.14,28
+Conor Bradley,Liverpool,ENG-Premier League,38.35,34.24,56.63,20
+Joe Gomez,Liverpool,ENG-Premier League,58.51,82.86,62.99,26
+Trent Alexander-Arnold,Liverpool,ENG-Premier League,61.52,79.2,98.21,25
+Kyle Walker,Manchester City,ENG-Premier League,75.21,84.36,70.41,33
+Rico Lewis,Manchester City,ENG-Premier League,33.97,39.71,15.64,19
+Aaron Wan-Bissaka,Manchester Utd,ENG-Premier League,58.35,69.85,40.85,26
+Diogo Dalot,Manchester Utd,ENG-Premier League,73.57,91.64,81.17,25
+Kieran Trippier,Newcastle Utd,ENG-Premier League,64.17,92.18,100.0,33
+Gonzalo Montiel,Nott'ham Forest,ENG-Premier League,75.17,44.53,46.37,27
+Neco Williams,Nott'ham Forest,ENG-Premier League,43.38,76.69,66.91,22
+Serge Aurier,Nott'ham Forest,ENG-Premier League,60.2,57.57,53.18,31
+Emerson,Tottenham,ENG-Premier League,61.87,82.73,33.9,25
+Pedro Porro,Tottenham,ENG-Premier League,66.42,99.87,91.9,24
+Vladimír Coufal,West Ham,ENG-Premier League,57.2,84.36,91.06,31
+Andoni Gorosabel,Alavés,ESP-La Liga,83.57,76.22,78.02,27
+Nahuel Tenaglia,Alavés,ESP-La Liga,71.09,51.84,20.62,28
+Alejandro Pozo Pozo,Almería,ESP-La Liga,51.8,53.81,72.0,25
+Pubill,Almería,ESP-La Liga,57.97,64.38,63.56,20
+Óscar de Marcos,Athletic Club,ESP-La Liga,79.9,75.15,72.63,35
+João Cancelo,Barcelona,ESP-La Liga,69.34,89.13,85.39,29
+Jules Koundé,Barcelona,ESP-La Liga,100.0,84.05,60.34,25
+Aitor Ruibal,Betis,ESP-La Liga,58.33,61.23,65.44,28
+Héctor Bellerín,Betis,ESP-La Liga,72.1,65.99,52.25,29
+Youssouf Sabaly,Betis,ESP-La Liga,45.62,41.21,28.48,31
+Javier Manquillo,Celta Vigo,ESP-La Liga,26.03,32.28,16.8,29
+Kevin Vázquez,Celta Vigo,ESP-La Liga,25.28,50.02,22.25,31
+Óscar Mingueza,Celta Vigo,ESP-La Liga,74.04,73.19,95.88,24
+Isaac Carcelen,Cádiz,ESP-La Liga,50.25,77.29,69.58,31
+Damián Suárez,Getafe,ESP-La Liga,53.9,68.75,71.47,35
+Iglesias,Getafe,ESP-La Liga,12.03,70.59,65.2,25
+Arnau Martinez,Girona,ESP-La Liga,80.73,63.73,52.1,20
+Yan Couto,Girona,ESP-La Liga,62.44,66.6,86.36,21
+Ricard Sánchez,Granada,ESP-La Liga,65.43,70.36,83.07,24
+Julian Araujo,Las Palmas,ESP-La Liga,61.24,70.9,64.12,22
+Álex Suárez,Las Palmas,ESP-La Liga,76.0,82.05,41.4,31
+Giovanni González,Mallorca,ESP-La Liga,64.06,74.11,73.06,29
+Pablo Maffeo,Mallorca,ESP-La Liga,35.93,51.48,66.52,26
+Jesús Areso,Osasuna,ESP-La Liga,64.65,74.35,78.7,24
+Rubén Peña,Osasuna,ESP-La Liga,42.44,76.83,73.31,32
+Iván Balliu,Rayo Vallecano,ESP-La Liga,61.88,78.54,75.36,32
+Dani Carvajal,Real Madrid,ESP-La Liga,56.73,80.26,68.86,32
+Lucas Vázquez,Real Madrid,ESP-La Liga,47.01,65.05,74.26,32
+Aritz Elustondo,Real Sociedad,ESP-La Liga,52.36,40.48,17.54,30
+Hamari Traoré,Real Sociedad,ESP-La Liga,69.24,77.82,78.58,32
+Jesús Navas,Sevilla,ESP-La Liga,53.12,65.13,72.11,38
+Juanlu Sánchez,Sevilla,ESP-La Liga,69.41,77.06,71.25,20
+Dimitri Foulquier,Valencia,ESP-La Liga,64.67,39.51,57.09,31
+Thierry Correia,Valencia,ESP-La Liga,61.87,76.59,66.71,25
+Adrià Altimira,Villarreal,ESP-La Liga,57.33,56.26,13.73,23
+Juan Foyth,Villarreal,ESP-La Liga,68.85,68.2,47.51,26
+Kiko Femenía,Villarreal,ESP-La Liga,77.74,55.87,31.22,33
+Killian Sardella,Anderlecht,BEL-Pro League,41.51,82.61,65.96,21
+Louis Patris,Anderlecht,BEL-Pro League,31.31,75.79,63.38,22
+Jelle Bataille,Antwerp,BEL-Pro League,64.23,91.9,89.03,24
+Ritchie De Laet,Antwerp,BEL-Pro League,69.84,68.69,39.84,35
+Hugo Siquet,Cercle Brugge,BEL-Pro League,22.34,94.68,88.2,21
+Jérémy Pétris,Charleroi,BEL-Pro League,36.18,43.44,47.81,26
+Denis Odoi,Club Brugge,BEL-Pro League,51.75,52.17,23.46,35
+Kyriani Sabbe,Club Brugge,BEL-Pro League,58.51,48.68,54.67,19
+Tajon Buchanan,Club Brugge,BEL-Pro League,42.55,34.36,62.33,25
+Daniel Muñoz,Genk,BEL-Pro League,55.69,83.11,80.91,27
+Zakaria El Ouahdi,Genk,BEL-Pro League,58.79,74.48,58.37,22
+Sandy Walsh,Mechelen,BEL-Pro League,50.32,59.19,63.84,29
+Marsoni Sambu,RWD Molenbeek,BEL-Pro League,45.99,68.51,61.16,27
+Bryan Reynolds,Westerlo,BEL-Pro League,56.84,86.85,87.31,22
+Edisson Jordanov,Westerlo,BEL-Pro League,63.9,56.27,46.58,30
+Lorenzo De Silvestri,Bologna,ITA-Serie A,51.85,43.14,2.49,35
+Stefan Posch,Bologna,ITA-Serie A,61.89,80.15,67.67,26
+Gabriele Zappa,Cagliari,ITA-Serie A,69.23,72.38,81.81,24
+Nahitan Nández,Cagliari,ITA-Serie A,38.22,62.13,91.08,28
+Bartosz Bereszyński,Empoli,ITA-Serie A,60.2,51.63,38.22,31
+Tyronne Ebuehi,Empoli,ITA-Serie A,70.97,49.8,62.1,28
+Michael Kayode,Fiorentina,ITA-Serie A,50.59,83.28,59.63,19
+Anthony Oyono,Frosinone,ITA-Serie A,66.0,70.47,57.01,23
+Nadir Zortea,Frosinone,ITA-Serie A,26.26,11.34,50.19,24
+Pol Lirola,Frosinone,ITA-Serie A,56.41,32.58,56.11,26
+Fabien Centonze,Hellas Verona,ITA-Serie A,53.49,0.47,4.76,28
+Jackson Tchatchoua,Hellas Verona,ITA-Serie A,61.28,69.76,68.0,22
+Adam Marušić,Lazio,ITA-Serie A,84.37,80.81,50.74,31
+Manuel Lazzari,Lazio,ITA-Serie A,82.86,66.77,59.84,30
+Valentin Gendrey,Lecce,ITA-Serie A,85.12,81.89,80.56,23
+Alessandro Florenzi,Milan,ITA-Serie A,73.78,66.7,75.52,33
+Davide Calabria,Milan,ITA-Serie A,76.46,80.94,63.33,27
+Giovanni Di Lorenzo,Napoli,ITA-Serie A,79.94,86.06,93.72,30
+Jeremy Toljan,Sassuolo,ITA-Serie A,54.2,60.21,71.03,29
+Marcus Pedersen,Sassuolo,ITA-Serie A,59.26,69.19,56.56,23
+Kevin Mbabu,Augsburg,GER-Bundesliga,39.5,76.13,73.77,28
+Robert Gumny,Augsburg,GER-Bundesliga,23.34,48.69,26.3,25
+Noussair Mazraoui,Bayern Munich,GER-Bundesliga,74.87,71.16,63.36,26
+Cristian Gamboa,Bochum,GER-Bundesliga,38.58,70.77,59.32,34
+Felix Passlack,Bochum,GER-Bundesliga,26.41,42.52,52.54,25
+Tim Oermann,Bochum,GER-Bundesliga,40.39,50.35,33.26,20
+Julian Ryerson,Dortmund,GER-Bundesliga,55.55,71.8,60.0,26
+Marius Wolf,Dortmund,GER-Bundesliga,72.79,29.17,59.04,28
+Thomas Meunier,Dortmund,GER-Bundesliga,64.7,44.3,38.93,32
+Kiliann Sildillia,Freiburg,GER-Bundesliga,46.58,76.41,71.16,21
+Marnon Busch,Heidenheim,GER-Bundesliga,41.26,40.7,51.5,29
+Omar Traoré,Heidenheim,GER-Bundesliga,61.62,72.71,72.03,26
+Benno Schmitz,Köln,GER-Bundesliga,59.74,58.09,42.19,29
+Rasmus Carstensen,Köln,GER-Bundesliga,43.26,80.45,78.76,23
+Joe Scally,M'Gladbach,GER-Bundesliga,53.97,72.86,61.89,21
+Benjamin Henrichs,RB Leipzig,GER-Bundesliga,74.52,84.36,91.49,27
+Josha Vagnoman,Stuttgart,GER-Bundesliga,53.19,55.02,54.1,23
+Pascal Stenzel,Stuttgart,GER-Bundesliga,68.74,69.21,69.53,28
+Joakim Mæhle,Wolfsburg,GER-Bundesliga,71.99,84.04,86.32,26
+Ridle Baku,Wolfsburg,GER-Bundesliga,51.15,47.92,84.06,26
+Kenny Lala,Brest,FRA-Ligue 1,47.92,85.22,84.81,32
+Tiago santos,Lille,FRA-Ligue 1,54.84,77.45,80.57,21
+Ainsley Maitland-Niles,Lyon,FRA-Ligue 1,50.65,57.44,57.75,26
+Clinton Mata,Lyon,FRA-Ligue 1,59.22,75.53,51.99,31
+Sael Kumbedi,Lyon,FRA-Ligue 1,51.02,63.65,49.1,19
+Jonathan Clauss,Marseille,FRA-Ligue 1,53.67,77.68,90.6,31
+Koffi Kouao,Metz,FRA-Ligue 1,36.65,45.12,46.09,25
+Maxime Colin,Metz,FRA-Ligue 1,43.27,63.93,55.72,32
+Enzo Tchato,Montpellier,FRA-Ligue 1,74.55,34.51,52.8,21
+Falaye Sacko,Montpellier,FRA-Ligue 1,58.69,70.78,56.69,28
+Silvan Hefti,Montpellier,FRA-Ligue 1,30.55,35.59,36.12,26
+Kelvin Amian,Nantes,FRA-Ligue 1,60.05,0.0,9.3,26
+Marcus Coco,Nantes,FRA-Ligue 1,35.49,67.04,61.63,27
+Ronaël Pierre-Gabriel,Nantes,FRA-Ligue 1,44.96,56.16,24.03,25
+Jordan Lotomba,Nice,FRA-Ligue 1,51.72,70.8,59.53,25
+Pablo Rosario,Nice,FRA-Ligue 1,66.73,68.75,69.31,27
+Achraf Hakimi,Paris S-G,FRA-Ligue 1,76.06,74.0,87.39,25
+Nordi Mukiele,Paris S-G,FRA-Ligue 1,52.6,63.63,16.4,26
+Thomas Foket,Reims,FRA-Ligue 1,52.71,78.14,59.04,29
+Guela Doué,Rennes,FRA-Ligue 1,37.7,60.14,60.69,21
+Lorenz Assignon,Rennes,FRA-Ligue 1,61.28,60.63,74.02,23
+Marvin Senaya,Strasbourg,FRA-Ligue 1,55.16,84.73,80.14,23
+Mikkel Desler,Toulouse,FRA-Ligue 1,47.77,67.85,58.47,29
+Yukinari Sugawara,AZ Alkmaar,NED-Eredivisie,78.64,84.0,99.5,23
+Anton Gaaei,Ajax,NED-Eredivisie,52.22,69.9,75.56,21
+Devyne Rensch,Ajax,NED-Eredivisie,73.36,83.05,63.7,21
+Tristan Gooijer,Ajax,NED-Eredivisie,50.66,38.0,35.76,19
+Hamdi Akujobi,Almere City,NED-Eredivisie,32.04,75.72,67.24,24
+Mimeirhel Benita,Excelsior,NED-Eredivisie,20.9,56.88,14.36,20
+Siebe Horemans,Excelsior,NED-Eredivisie,56.71,94.67,92.75,25
+Bart Nieuwkoop,Feyenoord,NED-Eredivisie,37.93,76.85,54.75,28
+Lutsharel Geertruida,Feyenoord,NED-Eredivisie,96.9,92.47,79.9,23
+Ivo Pinto,Fortuna Sittard,NED-Eredivisie,61.05,84.14,96.55,34
+Mats Deijl,Go Ahead Eag,NED-Eredivisie,47.47,85.19,83.35,26
+Hussein Ali,Heerenveen,NED-Eredivisie,38.44,53.01,42.52,22
+Oliver Braude,Heerenveen,NED-Eredivisie,58.83,90.7,67.43,20
+Jannes Wieckhoff,Heracles Almelo,NED-Eredivisie,52.83,68.76,61.63,23
+Navajo Bakboord,Heracles Almelo,NED-Eredivisie,69.39,76.75,61.32,25
+Bart van Rooij,NEC Nijmegen,NED-Eredivisie,65.11,81.04,90.92,22
+Brayann Pereira,NEC Nijmegen,NED-Eredivisie,16.22,50.82,17.29,20
+Jordan Teze,PSV Eindhoven,NED-Eredivisie,81.34,90.41,91.2,24
+Julian Lelieveld,RKC Waalwijk,NED-Eredivisie,75.5,87.89,97.95,26
+Saïd Bakari,Sparta R'dam,NED-Eredivisie,65.5,89.35,83.11,29
+Alfons Sampsted,Twente,NED-Eredivisie,61.92,82.75,56.03,26
+Joshua Brenet,Twente,NED-Eredivisie,61.67,44.77,73.37,30
+Hidde ter Avest,Utrecht,NED-Eredivisie,35.72,83.94,69.59,26
+Mark van der Maarel,Utrecht,NED-Eredivisie,41.49,44.52,33.23,34
+Carlens Arcus,Vitesse,NED-Eredivisie,57.53,85.39,85.37,27
+Brian Plat,Volendam,NED-Eredivisie,56.75,85.57,64.35,24
+Deron Payne,Volendam,NED-Eredivisie,48.08,68.14,57.41,21
+Oskar Buur,Volendam,NED-Eredivisie,42.95,65.58,77.46,26
+Bram van Polen,Zwolle,NED-Eredivisie,70.62,84.25,82.18,38
+Cody Drameh,Birmingham City,ENG-Championship,46.46,85.92,71.13,22
+Ethan Laird,Birmingham City,ENG-Championship,54.75,77.74,78.89,22
+Callum Brittain,Blackburn,ENG-Championship,54.54,90.53,90.86,26
+James Hill,Blackburn,ENG-Championship,64.84,67.85,45.58,22
+Joe Rankin-Costello,Blackburn,ENG-Championship,38.13,59.4,61.45,24
+George Tanner,Bristol City,ENG-Championship,62.41,84.54,58.65,24
+Ross McCrorie,Bristol City,ENG-Championship,31.47,41.59,38.45,26
+Mahlon Romeo,Cardiff City,ENG-Championship,59.25,42.34,27.9,28
+Perry Ng,Cardiff City,ENG-Championship,62.95,92.91,86.31,27
+Milan van Ewijk,Coventry City,ENG-Championship,54.87,84.95,83.03,23
+Tom Edwards,Huddersfield,ENG-Championship,37.25,40.19,57.22,25
+Cyrus Christie,Hull City,ENG-Championship,66.22,62.97,56.02,31
+Lewie Coyle,Hull City,ENG-Championship,57.79,83.77,70.23,28
+Axel Tuanzebe,Ipswich Town,ENG-Championship,74.9,62.5,24.72,26
+Brandon Williams,Ipswich Town,ENG-Championship,56.71,51.19,26.77,23
+Harry Clarke,Ipswich Town,ENG-Championship,73.54,80.2,76.82,23
+Archie Gray,Leeds United,ENG-Championship,55.59,87.4,60.04,18
+Jamie Shackleton,Leeds United,ENG-Championship,54.05,43.27,34.66,24
+Luke Ayling,Leeds United,ENG-Championship,37.84,39.75,49.15,32
+Hamza Choudhury,Leicester City,ENG-Championship,54.19,77.2,23.01,26
+Ricardo Pereira,Leicester City,ENG-Championship,69.55,95.87,81.4,30
+Anfernee Dijksteel,Middlesbrough,ENG-Championship,51.68,47.14,33.99,27
+Luke Ayling,Middlesbrough,ENG-Championship,65.06,61.16,69.66,32
+Ryan Leonard,Millwall,ENG-Championship,51.29,83.12,65.87,31
+Jack Stacey,Norwich City,ENG-Championship,50.48,88.89,89.89,28
+Joe Edwards,Plymouth Argyle,ENG-Championship,36.73,78.05,51.81,33
+Kaine Kesler-Hayden,Plymouth Argyle,ENG-Championship,56.9,65.54,69.09,21
+Reggie Cannon,QPR,ENG-Championship,71.63,55.35,50.45,25
+Dexter Lembikisa,Rotherham Utd,ENG-Championship,32.46,71.41,52.22,20
+Peter Kioso,Rotherham Utd,ENG-Championship,35.28,54.42,57.08,25
+Callum Paterson,Sheffield Weds,ENG-Championship,0.0,59.58,60.4,29
+Liam Palmer,Sheffield Weds,ENG-Championship,52.42,71.44,64.74,32
+Pol Valentín,Sheffield Weds,ENG-Championship,34.47,70.26,66.9,27
+James Bree,Southampton,ENG-Championship,44.97,52.49,25.54,26
+Kyle Walker-Peters,Southampton,ENG-Championship,81.77,93.66,88.89,27
+Junior Tchamadeu,Stoke City,ENG-Championship,24.94,43.51,43.37,20
+Ki-Jana Hoever,Stoke City,ENG-Championship,54.74,87.63,81.63,22
+Jenson Seelt,Sunderland,ENG-Championship,49.94,61.24,41.1,20
+Trai Hume,Sunderland,ENG-Championship,64.45,100.0,75.32,22
+Harrison Ashby,Swansea City,ENG-Championship,21.14,56.91,30.43,22
+Josh Key,Swansea City,ENG-Championship,46.88,71.63,78.22,24
+Kyle Naughton,Swansea City,ENG-Championship,43.92,54.21,36.9,35
+Jeremy Ngakia,Watford,ENG-Championship,53.15,35.85,59.94,23
+Ryan Andrews,Watford,ENG-Championship,54.84,80.68,63.53,19
+Darnell Furlong,West Brom,ENG-Championship,68.01,90.16,81.58,28
+Daniel Borges,América (MG),BRA-League,59.45,50.26,60.84,29
+Marcinho,América (MG),BRA-League,51.81,53.2,57.79,26
+Mateus Henrique,América (MG),BRA-League,44.42,44.98,43.77,20
+Rodriguinho,América (MG),BRA-League,47.26,54.6,77.31,19
+Khellven,Ath Paranaense,BRA-League,52.51,52.44,70.4,21
+Mádson,Ath Paranaense,BRA-League,30.77,55.4,75.56,31
+Mariano,Atlético Mineiro,BRA-League,67.7,66.52,47.09,36
+Renzo Saravia,Atlético Mineiro,BRA-League,66.87,81.77,53.68,29
+Cicinho,Bahia,BRA-League,38.0,56.18,42.63,34
+Gilberto,Bahia,BRA-League,72.97,72.87,75.81,29
+Leonel Di Plácido,Botafogo (RJ),BRA-League,79.87,88.95,86.55,29
+Rafael,Botafogo (RJ),BRA-League,47.99,50.07,23.36,32
+Aderlan Silva,Bragantino,BRA-League,65.83,80.32,66.82,32
+José Hurtado,Bragantino,BRA-League,64.79,77.76,60.72,21
+Bruno Méndez,Corinthians,BRA-League,74.83,71.05,41.91,23
+Fagner,Corinthians,BRA-League,80.13,70.33,89.52,33
+Diogo Batista,Coritiba,BRA-League,67.79,40.54,51.08,19
+Natanael,Coritiba,BRA-League,63.33,86.57,74.59,21
+Helibelton Palacios,Cruzeiro,BRA-League,46.34,32.06,13.97,29
+William,Cruzeiro,BRA-League,74.26,91.73,86.66,27
+Matheus Alexandre,Cuiabá,BRA-League,76.86,86.95,68.34,23
+Matheuzinho,Flamengo,BRA-League,42.66,55.53,28.38,22
+Wesley,Flamengo,BRA-League,48.78,87.7,76.73,19
+Guga,Fluminense,BRA-League,67.08,70.78,66.4,24
+Samuel Xavier,Fluminense,BRA-League,63.54,73.99,68.42,32
+Guilherme Tinga,Fortaleza,BRA-League,69.63,84.73,84.6,29
+Bruno Araújo dos Santos,Goiás,BRA-League,52.06,38.76,36.12,29
+Maguinho,Goiás,BRA-League,59.46,83.61,70.36,30
+Fábio,Grêmio,BRA-League,64.54,53.91,58.9,32
+Gustavo Martins Santos,Grêmio,BRA-League,81.37,52.27,16.45,20
+João Pedro,Grêmio,BRA-League,11.79,24.95,31.04,30
+Fabricio Bustos,Internacional,BRA-League,62.81,84.88,80.95,26
+Igor Gomes,Internacional,BRA-League,81.44,71.09,38.02,21
+Marcos Rocha,Palmeiras,BRA-League,92.22,65.26,72.5,34
+Mayke,Palmeiras,BRA-League,71.68,83.57,89.47,30
+Gabriel Inocêncio,Santos,BRA-League,54.54,73.43,50.82,28
+João Lucas,Santos,BRA-League,42.17,57.72,31.47,24
+Nathan,Santos,BRA-League,55.24,16.75,24.22,21
+Nathan Mendes,São Paulo,BRA-League,53.52,65.3,44.67,20
+Rafinha,São Paulo,BRA-League,98.36,72.15,74.1,37
+José Luis Rodríguez Bebanz,Vasco da Gama,BRA-League,70.98,76.94,88.66,25
+Paulo Henrique,Vasco da Gama,BRA-League,59.02,56.32,66.22,26
+Bogdan Milovanov,Arouca,POR-League,45.4,73.55,48.82,26
+Tiago Esgaio,Arouca,POR-League,66.39,93.43,75.99,28
+Alexander Bah,Benfica,POR-League,54.78,88.73,59.76,26
+Fredrik Aursnes,Benfica,POR-League,70.2,92.77,90.5,28
+Luís Santos,Boavista,POR-League,31.68,49.11,61.8,24
+Pedro Malheiro,Boavista,POR-League,51.89,80.71,81.56,23
+Salvador Agra,Boavista,POR-League,47.2,36.12,99.94,32
+Joe Mendes,Braga,POR-League,58.47,57.7,44.55,21
+Victor Gomez,Braga,POR-League,66.32,82.15,88.85,24
+Carraça,Chaves,POR-League,51.37,28.79,78.77,31
+Martin Agirregabiria,Famalicão,POR-League,72.14,61.48,65.12,27
+Nathan,Famalicão,POR-League,56.22,77.09,68.75,22
+David Pastor,Farense,POR-League,72.37,85.33,78.56,24
+Fran Delgado,Farense,POR-League,61.11,33.74,26.25,22
+Alexandre Pinto,Gil Vicente FC,POR-League,53.45,52.02,46.16,25
+José Carlos,Gil Vicente FC,POR-League,65.26,83.49,64.53,25
+Dinis Pinto,Moreirense,POR-League,53.87,58.88,29.2,23
+Fabiano,Moreirense,POR-League,64.96,75.13,79.11,24
+Guga,Portimonense,POR-League,29.51,69.26,60.49,20
+Igor Marques,Portimonense,POR-League,61.32,83.44,74.15,25
+Jorge Eduardo Sánchez,Porto,POR-League,73.72,39.87,48.83,26
+João Mário Lopes,Porto,POR-League,83.67,83.19,81.36,24
+Hugo Oliveira,Vizela,POR-League,32.88,36.98,48.0,22
+Tomás Costa Silva,Vizela,POR-League,54.26,91.87,95.53,24
+Lucas Souto,Arsenal,ARG-League,54.22,84.98,77.86,24
+Emanuel Coronel,Banfield,ARG-League,60.5,92.4,83.85,25
+Mauro Peinipil,Barracas Central,ARG-League,55.26,85.0,65.95,23
+Gabriel Compagnucci,Belgrano,ARG-League,55.71,56.08,79.57,31
+Guillermo Pereira,Belgrano,ARG-League,23.04,60.26,57.85,29
+Juan Barinaga,Belgrano,ARG-League,75.44,79.59,71.22,22
+Luis Advíncula,Boca Juniors,ARG-League,63.4,78.44,82.44,32
+Marcelo Weigandt,Boca Juniors,ARG-League,39.7,81.43,62.94,23
+Fernando Torrent,CA Huracán,ARG-League,64.7,50.41,49.3,31
+Guillermo Soto,CA Huracán,ARG-League,53.5,88.23,79.87,29
+Federico Vera,CA Unión,ARG-League,50.76,88.97,73.2,24
+Francisco Gerometta,CA Unión,ARG-League,38.52,58.34,52.29,23
+Brian Blasi,CC Córdoba,ARG-League,60.53,84.95,48.42,26
+Eric Meza,Colón,ARG-League,43.66,80.29,97.46,23
+Agustín Sant'Anna,Defensa y Just,ARG-League,68.3,91.95,87.44,25
+Nicolás Tripichio,Defensa y Just,ARG-League,49.86,63.41,68.93,27
+Eros Mancuso,Estudiantes,ARG-League,33.22,41.55,67.39,23
+Leonardo Godoy,Estudiantes,ARG-League,61.73,75.04,89.07,27
+Bautista Barros Schelotto,Gimnasia ELP,ARG-League,59.68,46.72,64.18,23
+Guillermo Enrique,Gimnasia ELP,ARG-League,50.51,79.02,68.28,22
+Lucas Arce,Godoy Cruz,ARG-League,84.88,94.8,94.46,25
+Luciano Gómez,Independiente,ARG-League,56.32,59.27,57.75,26
+Mateo Barcia,Independiente,ARG-League,39.46,91.03,81.92,21
+Giuliano Cerato,Instituto,ARG-League,50.29,81.51,84.2,24
+Juan Franco Arrellaga,Instituto,ARG-League,46.51,62.6,52.19,30
+Juan Cáceres,Lanús,ARG-League,66.88,94.87,84.65,22
+Armando Méndez,Newell's OB,ARG-League,64.94,54.86,57.72,26
+Jherson Mosquera,Newell's OB,ARG-League,68.71,82.13,72.48,23
+Nicolás Morgantini,Platense,ARG-League,63.86,82.52,75.6,28
+Facundo Mura,Racing Club,ARG-League,53.32,83.96,65.88,23
+Marcelo Herrera,River Plate,ARG-League,60.21,74.13,59.56,24
+Milton Casco,River Plate,ARG-League,79.4,85.98,84.44,34
+Damián Martínez,Rosario Cent,ARG-League,,,,33
+Gonzalo Bettini,Sarmiento,ARG-League,71.59,86.17,89.59,30
+Jean Pierre Rosso,Sarmiento,ARG-League,43.34,69.92,70.16,25
+Gastón Benavídez,Talleres,ARG-League,86.53,97.58,88.05,27
+Lucas Blondel,Tigre,ARG-League,76.7,90.43,75.75,26
+Martin Garay,Tigre,ARG-League,52.06,58.51,53.13,23
+Martín Ortega,Tigre,ARG-League,65.71,64.48,52.97,23
+Hernán De La Fuente,Tucumán,ARG-League,68.44,30.69,43.56,26
+Renzo Tesuri,Tucumán,ARG-League,46.12,91.94,69.9,26
+Leonardo Jara,Vélez Sarsfield,ARG-League,48.81,65.23,39.13,31
+Roberto Joaquín García,Vélez Sarsfield,ARG-League,47.0,39.92,31.38,21
+Tomás Guidara,Vélez Sarsfield,ARG-League,51.04,85.99,61.3,26
