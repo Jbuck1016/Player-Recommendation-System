@@ -1,221 +1,226 @@
-rank,team,rating,ranking change 7 days,id,League
-1,Manchester City,100.0,0,a3nyxabgsqlnqfkeg41m6tnpp,Premier League
-2,Real Madrid,98.0,0,3kq9cckrnlogidldtdie2fkbl,La Liga
-3,Internazionale,97.6,0,3vo5mpj7catp66nrwwqiuhuup,Serie A
-4,PSG,95.5,0,2b3mar72yy8d6uvat1ka6tn3r,Ligue 1
-5,Arsenal,95.0,2,4dsgumo7d4zupm2ugsvm4zm4d,Premier League
-6,Bayer Leverkusen,94.5,0,7ad69ngbpjuyzv96drf8d9sn2,Bundesliga
-7,Bayern München,94.3,1,apoawtpvac4zqlancmvw4nk4o,Bundesliga
-8,Liverpool,93.9,-3,c8h9bw1l82s06h77xxrelzhur,Premier League
-9,Barcelona,93.0,0,agh9ifb2mw3ivjusgedj7c3fe,La Liga
-10,RB Leipzig,92.3,1,9gefq4dz9b2hl8rqrxwrlrzmp,Bundesliga
-11,Borussia Dortmund,92.2,-1,dt4pinj0vw0t0cvz7za6mhmzy,Bundesliga
-12,Atalanta,91.1,0,e75syeuawg3ql8nwpi3vr2btz,Serie A
-13,Milan,90.5,0,9dntj5dioj5ex52yrgwzxrq9l,Serie A
-14,Atlético Madrid,90.5,3,4ku8o6uf87yd8iecdalipo6wd,La Liga
-15,Sporting CP,90.4,-1,7catg5lpivcmpf4xhggh6d8rk,Premiere Liga
-16,Juventus,90.2,-1,bqbbqm98ud8obe45ds9ohgyrd,Serie A
-17,Aston Villa,90.0,-1,b496gs285it6bheuikox6z9mj,Premier League
-18,Roma,89.8,2,2tk2l9sgktwc9jhzqdd4mpdtb,Serie A
-19,Benfica,89.6,2,9ldqu49smv1xg2va0n2cy28zl,Premiere Liga
-20,Tottenham Hotspur,89.4,-2,22doj4sgsocqpxw45h607udje,Premier League
-21,PSV,89.0,2,24fvcruwqrqvqa3aonf8c3zuy,Eredivisie
-22,Newcastle United,89.0,-3,7vn2i2kd35zuetw6b38gw9jsz,Premier League
-23,Stuttgart,88.8,3,3dwlvz6cl4lcavvrg0y2dycrt,Bundesliga
-24,Girona,88.8,7,7h7eg7q7dbwvzww78h9d5eh0h,La Liga
-25,Bologna,88.7,-3,ej5er0oyngdw138yuumwqbyqt,Serie A
-26,Porto,88.6,-2,66bsnl0zjb7l5akwo00h0y5me,Premiere Liga
-27,Lille,88.5,0,be2k34rut1lz79jxenabttqlc,Ligue 1
-28,Manchester United,88.4,0,6eqit8ye8aomdsrrq0hk3v7gh,Premier League
-29,Napoli,88.3,0,gi0l1habji5hpgar77dl5jqe,Serie A
-30,Athletic Club,88.3,-5,3czravw89omgc9o4s0w3l1bg5,La Liga
-31,Monaco,88.2,1,4t4hod56fsj7utpjdor8so5q6,Ligue 1
-32,Chelsea,88.2,2,9q0arba2kbnywth8bkxlhgmdr,Premier League
-33,Lazio,88.2,0,btcy9nra9ak4m22ovr2ia6m5v,Serie A
-34,Real Sociedad,88.2,-4,63f5h8t5e9qm1fqmvfkb23ghh,La Liga
-35,Club Brugge,88.0,2,1oyb7oym5nwzny8vxf03szd2h,Belgian Pro League
-36,Feyenoord,87.1,2,20vymiy7bo8wkyxai3ew494fz,Eredivisie
-37,Olympique Marseille,86.9,2,27xvwccz8kpmqsefjv2b2sc0o,Ligue 1
-38,Lens,86.7,-2,3xedluek08t2ka7oypwuullcn,Ligue 1
-39,Villarreal,86.7,2,74mcjsm72vr3l9pw2i4qfjchj,La Liga
-40,Nice,86.4,6,bx0cdmzr2gwr70ez72dorx82p,Ligue 1
-42,Brighton & Hove Albion,86.3,-7,e5p0ehyguld7egzhiedpdnc3w,Premier League
-43,Rennes,86.1,-3,z1wbqtd0fz5t5eezjvrbld3h,Ligue 1
-44,West Ham United,86.1,-1,4txjdaqveermfryvbfrr4taf7,Premier League
-45,Fiorentina,86.0,-1,4raiad4l2j5lkfaz92pk4osb,Serie A
-46,Brest,85.8,3,3adj8hkws0z1al232bg2h6tk0,Ligue 1
-48,Union Saint-Gilloise,85.7,12,ecj1gmc7pqcjo4sc9hvghj5u3,Belgian Pro League
-50,AFC Bournemouth,85.3,12,1pse9ta7a45pi2w2grjim70ge,Premier League
-51,Olympique Lyonnais,85.3,3,121le8unjfzug3iu9pgkqa1c7,Ligue 1
-52,Real Betis,85.1,-2,ah8dala7suqqkj04n2l8xz4zd,La Liga
-53,Brentford,85.1,-5,7yx5dqhhphyvfisohikodajhv,Premier League
-54,Fulham,85.1,-3,hzqh7z0mdl3v7gwete66syxp,Premier League
-55,Crystal Palace,85.1,6,1c8m2ko0wxq1asfkuykurdr0y,Premier League
-56,Everton,85.0,7,ehd2iemqmschhj2ec0vayztzz,Premier League
-57,Torino,84.9,-5,7gnly6999wao1xarwct4p8fe9,Serie A
-58,Sevilla,84.9,-3,10eyb18v5puw4ez03ocaug09m,La Liga
-59,Eintracht Frankfurt,84.4,-2,c5hderjlkcoaze51e5wgvptk,Bundesliga
-60,Wolverhampton Wanderers,84.4,-4,b9si1jn1lfxfund69e9ogcu2n,Premier League
-61,Valencia,84.3,-2,ba5e91hjacvma2sjvixn00pjo,La Liga
-62,Anderlecht,84.1,2,6vyr13j6kbwdtxjwm1m4m8nu2,Belgian Pro League
-64,Freiburg,84.0,-6,6k5zscdm9ufw0tguvzyjlp5hq,Bundesliga
-65,Toulouse,83.7,4,4aghw9tyi8ba3ju1ne83gmf9w,Ligue 1
-67,Getafe,83.4,7,1n1j0wsl763lq7ee1k0c11c02,La Liga
-69,Sporting Braga,83.4,-3,26t6lvlpql4w5wu1ih73qpy36,Premiere Liga
-70,Monza,83.4,-2,67z1gqyiuzpmmb15q5fy7ntc4,Serie A
-75,Montpellier,82.9,-4,2cjpmotqo8phcqfpgo9xf4gel,Ligue 1
-76,Wolfsburg,82.6,16,a8l3w3n0j99qjlsxj3jnmgkz1,Bundesliga
-77,Mallorca,82.6,3,50x1m4u58lffhq6v6ga1hbxmy,La Liga
-80,Strasbourg,82.4,-7,71ajatxnuhc5cnm3xvgdky49w,Ligue 1
-81,Gent,82.4,6,8y3iucyxguipljcmf87a11bk9,Belgian Pro League
-83,Leicester City,82.3,18,avxknfz4f6ob0rv9dbnxdzde0,Championship
-84,Werder Bremen,82.3,21,cu0eztmjcsbydyp53aleznorw,Bundesliga
-87,Borussia M'gladbach,82.1,1,go76xxm0xyfgqt1h6tcrtimm,Bundesliga
-88,Hoffenheim,82.1,-7,4l9mrqzmajz5crzlz50mtbt6x,Bundesliga
-89,Celta de Vigo,82.0,-10,6f27yvbqcngegwsg2ozxxdj4,La Liga
-92,Union Berlin,81.9,8,a8d2gb2nag8fy0itbuxmcibh2,Bundesliga
-94,Mainz 05,81.9,-1,1c7qokc1j5z50cjj4tcu32haa,Bundesliga
-95,Palmeiras,81.9,37,b9d2xcvxxcwplyp4le9ulnlv9,Brazillian League
-96,Genoa,81.9,7,4kumqzwifv478caxed8zywlh3,Serie A
-97,Atlético Mineiro,81.8,37,1f6qzkdjh8fih5ii1eyqmkolq,Brazillian League
-98,Deportivo Alavés,81.7,13,4dtdjgnpdq9uw4sdutti0vaar,La Liga
-99,Nottingham Forest,81.7,-1,1qtaiy11gswx327s0vkibf70n,Premier League
-100,Heidenheim,81.7,7,3xcg7xikgrn2x8oa65sopb2is,Bundesliga
-101,Reims,81.7,-15,3c3jcs7vc1t6vz5lev162jyv7,Ligue 1
-102,Rayo Vallecano,81.7,-6,3budh3j9xivsid3ptm8ptpy4k,La Liga
-103,Osasuna,81.7,-18,2l0ldgiwsgb8d6y3z0sfgjzyj,La Liga
-104,Genk,81.6,-27,89xivtxk59uzvhdsd6miao6tm,Belgian Pro League
-106,River Plate,81.4,17,115foion8jwrvp2e7xif675kx,Argentinian League
-107,Augsburg,81.4,-18,ex3psl8e3ajeypwjy4xfltpx6,Bundesliga
-109,Udinese,81.3,1,dxq76zcvnokq07cszdx0i6kve,Serie A
-114,Twente,81.2,0,4tic29sox7m39fy1ztgv0jsiq,Eredivisie
-117,Antwerp,81.1,-33,7zibyotq1x1hq6pmgibhr0e6s,Belgian Pro League
-119,Leeds United,81.0,-24,48gk2hpqtsl6p9sx9kjhaydq4,Championship
-120,Lecce,80.9,0,bi1fxjrncd0ram0oi7ja1jyuo,Serie A
-122,Burnley,80.8,2,64bxxwu2mv2qqlv0monbkj1om,Premier League
-123,Empoli,80.7,-1,8le3orkfz6iix3jns6g9ojqjg,Serie A
-124,Las Palmas,80.6,-7,1ae3awgwm3i1jds5tfct5441j,La Liga
-128,Ipswich Town,80.3,10,8b523ujgl21tbc01me65q0aoh,Championship
-133,Hellas Verona,80.1,-3,ap6blbxhq9elm62vw6tutzlwg,Serie A
-134,Vitória Guimarães,80.0,5,8gvg1ranyf93hprfkwx3ofl2y,Premiere Liga
-135,Ajax,80.0,-8,d0zdg647gvgc95xdtk1vpbkys,Eredivisie
-136,Köln,80.0,5,8q1ul09cygzswb7tb456bmifv,Bundesliga
-138,Luton Town,79.9,-5,aksa492u5hf93giwcn2zt1nzz,Premier League
-139,Cádiz,79.9,1,82q9159y2u7mkfn3z6hy75r4o,La Liga
-141,Bochum,79.8,12,eq1oq6y61xnzq88zu0cnw131z,Bundesliga
-142,Frosinone,79.8,10,5khizzei8z0qbb7exz622wxw3,Serie A
-148,AZ,79.4,19,3kfktv64h7kg7zryax1wktr5r,Eredivisie
-149,Flamengo,79.4,-2,102ykb145wz6dtveg65nistwm,Brazillian League
-150,Racing Club,79.4,12,39acfbxikh52o6y9opfb0q0nb,Argentinian League
-152,Clermont,79.3,16,17o35s8assv3kamxowzz77k4r,Ligue 1
-153,Cercle Brugge,79.3,-8,3ix9om1svhd6obl0mbk1otgop,Belgian Pro League
-154,Cagliari,79.3,-10,5rwlg5cfv1hu7yf0ek1zxpzy3,Serie A
-159,Lorient,79.0,-8,70nn27vgkt6l48lvv5e66q7ww,Ligue 1
-160,Southampton,78.9,-12,d5ydtvt96bv7fq04yqm2w2632,Championship
-163,Sassuolo,78.7,-3,6tuibxq39fdryu8ou06wcm0q3,Serie A
-165,Nantes,78.7,11,750ustvk4jfqmo8q4gnrcxy7z,Ligue 1
-166,Internacional,78.6,48,c7n1isjmpyqt5pj51yekr08wo,Brazillian League
-167,Granada,78.6,22,26fes5ubaeq0fk1nay2pj2ob2,La Liga
-172,Arouca,78.5,3,dich5v7sw466smbqap0d9rbyj,Premiere Liga
-174,Boca Juniors,78.4,-8,ciqt22ivoc48zj62detdyh1mm,Argentinian League
-177,São Paulo,78.3,73,5p301ikmaba9gesscss3zo745,Brazillian League
-181,Norwich City,78.3,-1,suz80crpy3anixyzccmu6jzp,Championship
-184,Middlesbrough,78.2,23,cq0jd5ztepqjjeikk5trb15vr,Championship
-185,Botafogo,78.2,98,2x94b2pn1o1tb5l1bbu8x9yu9,Brazillian League
-187,Athletico Paranaense,78.2,52,5h3amvo8ykt01u4h3upw3c5qf,Brazillian League
-198,Le Havre,78.0,7,23pqcgxu1tip265hbe01kszbt,Ligue 1
-199,Mechelen,78.0,9,b7jmo07lqav0wfe2mtlzyspak,Belgian Pro League
-204,West Bromwich Albion,77.9,-31,d1lhefp805y0rcbjqkpu4fq0n,Championship
-205,Metz,77.8,-21,2khen2a38l2hkx33s73pehl6o,Ligue 1
-209,Talleres de Córdoba,77.8,11,ajeh0pq7dtphe0btz4wc4xb0g,Argentinian League
-215,Estudiantes,77.5,-4,91j32z6ga16tjj140ss2i24mt,Argentinian League
-216,Sheffield United,77.5,-18,bws31egwjda253q9lvykgnivo,Premier League
-219,Coventry City,77.4,-38,dacoc20k0n3fxu4zek8wufmko,Championship
-220,RB Bragantino,77.3,52,4ayjm36vlnc5j8jhwpsdwxuph,Brazillian League
-221,Fluminense,77.3,15,2ldx5vhhqfz2rllkgp7wpa744,Brazillian League
-231,Godoy Cruz,77.0,0,1we2nqwg18sjn6cevduuapbkf,Argentinian League
-234,Hull City,76.9,13,f0figafm2v9h8ofo6slajj7xf,Championship
-237,Darmstadt 98,76.8,-16,1y7e48j8swyafegsucvewse5a,Bundesliga
-238,Almería,76.8,-21,cobffe32r7g4skka9m19qib63,La Liga
-243,Bristol City,76.5,6,c5485h5qulh4l0k0py5b9xug1,Championship
-245,Grêmio,76.5,18,1yd80wg4djlmtgkei51x0x4t6,Brazillian League
-246,Utrecht,76.5,-9,ccpscwdcm65czscrun048ecn5,Eredivisie
-250,Fortaleza,76.5,78,1vvaya787s5wg5geudzacya7m,Brazillian League
-256,Sint-Truiden,76.3,-3,2989v3kho9h5jaboe1nr7lx21,Belgian Pro League
-258,Moreirense,76.2,17,4a3yqn3kt1l18oklr7zxo4f1s,Premiere Liga
-260,Vélez Sarsfield,76.2,-1,a3kgi895b7b3ecfzmoyxbw2pl,Argentinian League
-262,Swansea City,76.1,2,410jti6axb01yhvbc0axsp8li,Championship
-265,Corinthians,76.1,92,f0td6lvs326lppbwh1fj8v2ls,Brazillian League
-273,Independiente,75.9,4,ag3u5yhvyaxwtebl9xp5e2vaa,Argentinian League
-274,Defensa y Justicia,75.8,-18,1n4ioqcbh1hemy9ezzu6v86n7,Argentinian League
-276,Argentinos Juniors,75.8,3,7tev5pifn8hdy4vlts0coha1b,Argentinian League
-277,Salernitana,75.8,-22,49rkyo4do8uwj06geomw0xr4i,Serie A
-283,Famalicão,75.6,-17,5c0sf1eaipcxvdw9o22of2jdp,Premiere Liga
-288,Cruzeiro,75.5,85,bd6vujl7jfv4wtc8gvo1o1t5y,Brazillian League
-289,NEC,75.5,-35,8iawijq7s9s6d85mjz8wdslki,Eredivisie
-294,Sporting Charleroi,75.3,15,920raeoumft3q2wmvc296uceo,Belgian Pro League
-300,OH Leuven,75.2,-22,bw9wm8pqfzcchumhiwdt2w15c,Belgian Pro League
-303,Standard Liège,75.1,-4,5z1b7fuvpqe6vnigvopomvecu,Belgian Pro League
-305,Watford,75.1,17,4t83rqbdbekinxl5fz2ygsyta,Championship
-309,Sparta Rotterdam,75.0,2,89w5c6pw7vn0dxypi61tt0g4k,Eredivisie
-310,Bahia,75.0,129,e93fgat6j6g86zqul1m3m2kpn,Brazillian League
-312,Criciúma,75.0,147,9ri292j4uqvn567soly0xrmrx,Brazillian League
-328,Preston North End,74.8,-32,5kq4izdz28qjaxoa6ujclwghj,Championship
-330,Lanús,74.8,23,19ij50t7wklqr3w2bye5r7tp4,Argentinian League
-331,Rio Ave,74.8,-4,cgvbluoerzbzcr7aaxge3wkcv,Premiere Liga
-333,Newell's Old Boys,74.7,5,3oj3koph7uf63y1f9zr8r7ylo,Argentinian League
-343,Sunderland,74.6,-28,1r3545b2dzan8yqa80gtmcjch,Championship
-346,Sheffield Wednesday,74.6,43,1musyruv2ufjrjnj6gvdbr8kt,Championship
-349,Farense,74.6,47,4q3s76lhr7sjib1a40ipix0sa,Premiere Liga
-352,Casa Pia,74.5,7,ewsf6evtguu9j7k6js4tlgl89,Premiere Liga
-356,Stoke City,74.5,30,4qioq44vcv619vnyy2rpovk4e,Championship
-367,Millwall,74.3,4,40d2qd8lr1tgsvmg5l1fzaf4o,Championship
-368,Barracas Central,74.3,-4,8bh6iyg42ta2y8mgkkgd2hy6o,Argentinian League
-371,Gil Vicente,74.3,-15,bwt8yfk8rkcwiwyr0mopd7wqd,Premiere Liga
-375,Juventude,74.2,93,7avb9meepw828qkp0tiugzd1b,Brazillian League
-388,Banfield,73.9,7,3lbqswe4h5wyrayjt580zmujx,Argentinian League
-393,Cuiabá,73.9,17,3oau1zwakraexd8ej8xvtlaqo,Brazillian League
-394,Unión,73.9,3,5o5wtxn03ktvxcdrpxht5aqdp,Argentinian League
-397,San Lorenzo,73.9,2,2sciofe2reang4qdncm1bihgr,Argentinian League
-406,Queens Park Rangers,73.7,77,72nmbktwvcj3wizfp37yjf0dp,Championship
-409,Blackburn Rovers,73.7,-4,ep3im6aygoatju4u3ws8v3mog,Championship
-410,Belgrano,73.7,33,2biw4all5ru5xiorgyqbevwr1,Argentinian League
-414,Huracán,73.7,-1,3rw8ouixzsh3x8dgy8ifev925,Argentinian League
-415,Estoril,73.7,9,22mo7qbsnyi8wtucpvhgvhw2q,Premiere Liga
-416,Rosario Central,73.7,-2,e8ma1lonj51sqmwy00mwnw1ke,Argentinian League
-417,Go Ahead Eagles,73.6,-30,b79uipsy57y1jqpy07h4i5ovk,Eredivisie
-420,Platense,73.6,1,d08q2rnrt7mss1axbuu595tyu,Argentinian League
-435,Instituto,73.4,-2,2zjoq67ogz8lmaoesxkubxhp6,Argentinian League
-438,Vitória,73.3,64,436xob9epu7bzdu7c1zzjjdak,Brazillian League
-453,Atlético Goianiense,73.2,125,441ion913h05bwxctg48884uh,Brazillian League
-456,Westerlo,73.1,-27,2nhn3ikl1ciq34w3hcp883d6p,Belgian Pro League
-465,Cardiff City,73.0,-59,3ash57c0q2tgok6gvzbsta93,Championship
-468,Boavista,73.0,-23,3b4nxgvmwzstmoq6borytkwx1,Premiere Liga
-481,Vasco da Gama,72.9,5,5ponlslulpugdlvd93n9yqu2b,Brazillian League
-483,Plymouth Argyle,72.9,-30,5g1fnexeromjl0lvnxp8hpnhi,Championship
-492,Heerenveen,72.7,-27,4vd2t5schmvvufrfib7f2vjdf,Eredivisie
-514,Birmingham City,72.3,18,8kreqtde5jdktcib0kg7dknac,Championship
-519,Estrela,72.3,-64,85nuf5511v5omdretfoh0c4k4,Premiere Liga
-537,Huddersfield Town,72.1,-3,5n5baro467i8s8efkra3nhgux,Championship
-555,RWDM,71.9,-60,4kzh86nfubfwsjzerl9pz73kl,Belgian Pro League
-588,Deportivo Riestra,71.5,18,7gcwwr8m5docs6jqrn2stilie,Argentinian League
-600,Central Córdoba SdE,71.4,13,1x5i9dl7uyrh5o2th8ore61e6,Argentinian League
-603,Chaves,71.3,-29,alyavx3ad35bp1xuwmqk7sgev,Premiere Liga
-608,Gimnasia La Plata,71.3,14,1rio0xlpk4s2ttmchsqjs6eik,Argentinian League
-618,Atlético Tucumán,71.2,13,6u0o1i04y2mnw2avru97sn970,Argentinian League
-629,PEC Zwolle,71.0,42,2uuh2bir8ktof0uxfo06lb4ox,Eredivisie
-632,Vizela,71.0,0,7fn0aazbc8nx0u040aulozds1,Premiere Liga
-645,Portimonense,70.9,-57,co1i764h6b02husae71w6scs8,Premiere Liga
-672,Sarmiento,70.7,4,1tsjuhn8qeikaj837w2ybx77n,Argentinian League
-675,Fortuna Sittard,70.7,-48,3ebril33e08ddzob4bhq8awsr,Eredivisie
-690,Heracles,70.5,-50,dac758ef858jbq7pcb3gfwite,Eredivisie
-707,Kortrijk,70.4,56,1uk609mhtsfhokhaewjapb26,Belgian Pro League
-717,Almere City,70.3,-24,1fttb31hnskynpku8qd09yhm8,Eredivisie
-745,Independiente Rivadavia,70.0,5,8inprqnxjps9ckiamn3cfoo8v,Argentinian League
-782,RKC Waalwijk,69.7,-5,ed5nwjz5za3oyi20nxzgqivmx,Eredivisie
-835,Tigre,69.2,13,cs3122cdx3g2nviltzfilmz5c,Argentinian League
-891,Excelsior,68.6,33,dqk062lu0vm8epvytbm6r4mmf,Eredivisie
-910,AS Eupen,68.4,-40,9njsy633rh1tyri7l2jaju5o,Belgian Pro League
-932,Vitesse,68.3,39,6hsriqr3ybvyg94w2k19oal50,Eredivisie
-951,Rotherham United,68.2,-26,6m5s30n9ej0dqfk1hfyrlkhdw,Championship
-1170,Volendam,66.5,-17,6g9qrm72224jrk6tkxxxi8a9n,Eredivisie
+rank,team,rating,ranking change 7 days,id,League,Unnamed: 6,Unnamed: 7,Unnamed: 8
+1,Manchester City,100.0,0,a3nyxabgsqlnqfkeg41m6tnpp,Premier League,,,
+2,Real Madrid,98.0,0,3kq9cckrnlogidldtdie2fkbl,La Liga,,,
+3,Internazionale,97.6,0,3vo5mpj7catp66nrwwqiuhuup,Serie A,,,
+4,PSG,95.5,0,2b3mar72yy8d6uvat1ka6tn3r,Ligue 1,,,
+5,Arsenal,95.0,2,4dsgumo7d4zupm2ugsvm4zm4d,Premier League,,,
+6,Bayer Leverkusen,94.5,0,7ad69ngbpjuyzv96drf8d9sn2,Bundesliga,,,
+7,Bayern München,94.3,1,apoawtpvac4zqlancmvw4nk4o,Bundesliga,,,
+8,Liverpool,93.9,-3,c8h9bw1l82s06h77xxrelzhur,Premier League,,,
+9,Barcelona,93.0,0,agh9ifb2mw3ivjusgedj7c3fe,La Liga,,,
+10,RB Leipzig,92.3,1,9gefq4dz9b2hl8rqrxwrlrzmp,Bundesliga,,,
+11,Borussia Dortmund,92.2,-1,dt4pinj0vw0t0cvz7za6mhmzy,Bundesliga,,,
+12,Atalanta,91.1,0,e75syeuawg3ql8nwpi3vr2btz,Serie A,,,
+13,Milan,90.5,0,9dntj5dioj5ex52yrgwzxrq9l,Serie A,,,
+14,Atlético Madrid,90.5,3,4ku8o6uf87yd8iecdalipo6wd,La Liga,,,
+15,Sporting CP,90.4,-1,7catg5lpivcmpf4xhggh6d8rk,Premiere Liga,,,
+16,Juventus,90.2,-1,bqbbqm98ud8obe45ds9ohgyrd,Serie A,,,
+17,Aston Villa,90.0,-1,b496gs285it6bheuikox6z9mj,Premier League,,,
+18,Roma,89.8,2,2tk2l9sgktwc9jhzqdd4mpdtb,Serie A,,,
+19,Benfica,89.6,2,9ldqu49smv1xg2va0n2cy28zl,Premiere Liga,,,
+20,Tottenham Hotspur,89.4,-2,22doj4sgsocqpxw45h607udje,Premier League,,,
+21,PSV,89.0,2,24fvcruwqrqvqa3aonf8c3zuy,Eredivisie,,,
+22,Newcastle United,89.0,-3,7vn2i2kd35zuetw6b38gw9jsz,Premier League,,,
+23,Stuttgart,88.8,3,3dwlvz6cl4lcavvrg0y2dycrt,Bundesliga,,,
+24,Girona,88.8,7,7h7eg7q7dbwvzww78h9d5eh0h,La Liga,,,
+25,Bologna,88.7,-3,ej5er0oyngdw138yuumwqbyqt,Serie A,,,
+26,Porto,88.6,-2,66bsnl0zjb7l5akwo00h0y5me,Premiere Liga,,,
+27,Lille,88.5,0,be2k34rut1lz79jxenabttqlc,Ligue 1,,,
+28,Manchester United,88.4,0,6eqit8ye8aomdsrrq0hk3v7gh,Premier League,,,
+29,Napoli,88.3,0,gi0l1habji5hpgar77dl5jqe,Serie A,,,
+30,Athletic Club,88.3,-5,3czravw89omgc9o4s0w3l1bg5,La Liga,,,
+31,Monaco,88.2,1,4t4hod56fsj7utpjdor8so5q6,Ligue 1,,,
+32,Chelsea,88.2,2,9q0arba2kbnywth8bkxlhgmdr,Premier League,,,
+33,Lazio,88.2,0,btcy9nra9ak4m22ovr2ia6m5v,Serie A,,,
+34,Real Sociedad,88.2,-4,63f5h8t5e9qm1fqmvfkb23ghh,La Liga,,,
+35,Club Brugge,88.0,2,1oyb7oym5nwzny8vxf03szd2h,Belgian Pro League,,,
+36,Feyenoord,87.1,2,20vymiy7bo8wkyxai3ew494fz,Eredivisie,,,
+37,Olympique Marseille,86.9,2,27xvwccz8kpmqsefjv2b2sc0o,Ligue 1,,,
+38,Lens,86.7,-2,3xedluek08t2ka7oypwuullcn,Ligue 1,,,
+39,Villarreal,86.7,2,74mcjsm72vr3l9pw2i4qfjchj,La Liga,,,
+40,Nice,86.4,6,bx0cdmzr2gwr70ez72dorx82p,Ligue 1,,,
+42,Brighton & Hove Albion,86.3,-7,e5p0ehyguld7egzhiedpdnc3w,Premier League,,,
+43,Rennes,86.1,-3,z1wbqtd0fz5t5eezjvrbld3h,Ligue 1,,,
+44,West Ham United,86.1,-1,4txjdaqveermfryvbfrr4taf7,Premier League,,,
+45,Fiorentina,86.0,-1,4raiad4l2j5lkfaz92pk4osb,Serie A,,,
+46,Brest,85.8,3,3adj8hkws0z1al232bg2h6tk0,Ligue 1,,,
+48,Union Saint-Gilloise,85.7,12,ecj1gmc7pqcjo4sc9hvghj5u3,Belgian Pro League,,,
+50,AFC Bournemouth,85.3,12,1pse9ta7a45pi2w2grjim70ge,Premier League,,,
+51,Olympique Lyonnais,85.3,3,121le8unjfzug3iu9pgkqa1c7,Ligue 1,,,
+52,Real Betis,85.1,-2,ah8dala7suqqkj04n2l8xz4zd,La Liga,,,
+53,Brentford,85.1,-5,7yx5dqhhphyvfisohikodajhv,Premier League,,,
+54,Fulham,85.1,-3,hzqh7z0mdl3v7gwete66syxp,Premier League,,,
+55,Crystal Palace,85.1,6,1c8m2ko0wxq1asfkuykurdr0y,Premier League,,,
+56,Everton,85.0,7,ehd2iemqmschhj2ec0vayztzz,Premier League,,,
+57,Torino,84.9,-5,7gnly6999wao1xarwct4p8fe9,Serie A,,,
+58,Sevilla,84.9,-3,10eyb18v5puw4ez03ocaug09m,La Liga,,,
+59,Eintracht Frankfurt,84.4,-2,c5hderjlkcoaze51e5wgvptk,Bundesliga,,,
+60,Wolverhampton Wanderers,84.4,-4,b9si1jn1lfxfund69e9ogcu2n,Premier League,,,
+61,Valencia,84.3,-2,ba5e91hjacvma2sjvixn00pjo,La Liga,,,
+62,Anderlecht,84.1,2,6vyr13j6kbwdtxjwm1m4m8nu2,Belgian Pro League,,,
+64,Freiburg,84.0,-6,6k5zscdm9ufw0tguvzyjlp5hq,Bundesliga,,,
+65,Toulouse,83.7,4,4aghw9tyi8ba3ju1ne83gmf9w,Ligue 1,,,
+67,Getafe,83.4,7,1n1j0wsl763lq7ee1k0c11c02,La Liga,,,
+69,Sporting Braga,83.4,-3,26t6lvlpql4w5wu1ih73qpy36,Premiere Liga,,,
+70,Monza,83.4,-2,67z1gqyiuzpmmb15q5fy7ntc4,Serie A,,,
+75,Montpellier,82.9,-4,2cjpmotqo8phcqfpgo9xf4gel,Ligue 1,,,
+76,Wolfsburg,82.6,16,a8l3w3n0j99qjlsxj3jnmgkz1,Bundesliga,,,
+77,Mallorca,82.6,3,50x1m4u58lffhq6v6ga1hbxmy,La Liga,,,
+80,Strasbourg,82.4,-7,71ajatxnuhc5cnm3xvgdky49w,Ligue 1,,,
+81,Gent,82.4,6,8y3iucyxguipljcmf87a11bk9,Belgian Pro League,,,
+83,Leicester City,82.3,18,avxknfz4f6ob0rv9dbnxdzde0,Championship,,,
+84,Werder Bremen,82.3,21,cu0eztmjcsbydyp53aleznorw,Bundesliga,,,
+87,Borussia M'gladbach,82.1,1,go76xxm0xyfgqt1h6tcrtimm,Bundesliga,,,
+88,Hoffenheim,82.1,-7,4l9mrqzmajz5crzlz50mtbt6x,Bundesliga,,,
+89,Celta de Vigo,82.0,-10,6f27yvbqcngegwsg2ozxxdj4,La Liga,,,
+92,Union Berlin,81.9,8,a8d2gb2nag8fy0itbuxmcibh2,Bundesliga,,,
+94,Mainz 05,81.9,-1,1c7qokc1j5z50cjj4tcu32haa,Bundesliga,,,
+95,Palmeiras,81.9,37,b9d2xcvxxcwplyp4le9ulnlv9,Brazillian League,,,
+96,Genoa,81.9,7,4kumqzwifv478caxed8zywlh3,Serie A,,,
+97,Atlético Mineiro,81.8,37,1f6qzkdjh8fih5ii1eyqmkolq,Brazillian League,,,
+98,Deportivo Alavés,81.7,13,4dtdjgnpdq9uw4sdutti0vaar,La Liga,,,
+99,Nottingham Forest,81.7,-1,1qtaiy11gswx327s0vkibf70n,Premier League,,,
+100,Heidenheim,81.7,7,3xcg7xikgrn2x8oa65sopb2is,Bundesliga,,,
+101,Reims,81.7,-15,3c3jcs7vc1t6vz5lev162jyv7,Ligue 1,,,
+102,Rayo Vallecano,81.7,-6,3budh3j9xivsid3ptm8ptpy4k,La Liga,,,
+103,Osasuna,81.7,-18,2l0ldgiwsgb8d6y3z0sfgjzyj,La Liga,,,
+104,Genk,81.6,-27,89xivtxk59uzvhdsd6miao6tm,Belgian Pro League,,,
+106,River Plate,81.4,17,115foion8jwrvp2e7xif675kx,Argentinian League,,,
+107,Augsburg,81.4,-18,ex3psl8e3ajeypwjy4xfltpx6,Bundesliga,,,
+109,Udinese,81.3,1,dxq76zcvnokq07cszdx0i6kve,Serie A,,,
+114,Twente,81.2,0,4tic29sox7m39fy1ztgv0jsiq,Eredivisie,,,
+117,Antwerp,81.1,-33,7zibyotq1x1hq6pmgibhr0e6s,Belgian Pro League,,,
+119,Leeds United,81.0,-24,48gk2hpqtsl6p9sx9kjhaydq4,Championship,,,
+120,Lecce,80.9,0,bi1fxjrncd0ram0oi7ja1jyuo,Serie A,,,
+122,Burnley,80.8,2,64bxxwu2mv2qqlv0monbkj1om,Premier League,,,
+123,Empoli,80.7,-1,8le3orkfz6iix3jns6g9ojqjg,Serie A,,,
+124,Las Palmas,80.6,-7,1ae3awgwm3i1jds5tfct5441j,La Liga,,,
+128,Ipswich Town,80.3,10,8b523ujgl21tbc01me65q0aoh,Championship,,,
+133,Hellas Verona,80.1,-3,ap6blbxhq9elm62vw6tutzlwg,Serie A,,,
+134,Vitória Guimarães,80.0,5,8gvg1ranyf93hprfkwx3ofl2y,Premiere Liga,,,
+135,Ajax,80.0,-8,d0zdg647gvgc95xdtk1vpbkys,Eredivisie,,,
+136,Köln,80.0,5,8q1ul09cygzswb7tb456bmifv,Bundesliga,,,
+138,Luton Town,79.9,-5,aksa492u5hf93giwcn2zt1nzz,Premier League,,,
+139,Cádiz,79.9,1,82q9159y2u7mkfn3z6hy75r4o,La Liga,,,
+141,Bochum,79.8,12,eq1oq6y61xnzq88zu0cnw131z,Bundesliga,,,
+142,Frosinone,79.8,10,5khizzei8z0qbb7exz622wxw3,Serie A,,,
+148,AZ,79.4,19,3kfktv64h7kg7zryax1wktr5r,Eredivisie,,,
+149,Flamengo,79.4,-2,102ykb145wz6dtveg65nistwm,Brazillian League,,,
+150,Racing Club,79.4,12,39acfbxikh52o6y9opfb0q0nb,Argentinian League,,,
+152,Clermont,79.3,16,17o35s8assv3kamxowzz77k4r,Ligue 1,,,
+153,Cercle Brugge,79.3,-8,3ix9om1svhd6obl0mbk1otgop,Belgian Pro League,,,
+154,Cagliari,79.3,-10,5rwlg5cfv1hu7yf0ek1zxpzy3,Serie A,,,
+159,Lorient,79.0,-8,70nn27vgkt6l48lvv5e66q7ww,Ligue 1,,,
+160,Southampton,78.9,-12,d5ydtvt96bv7fq04yqm2w2632,Championship,,,
+163,Sassuolo,78.7,-3,6tuibxq39fdryu8ou06wcm0q3,Serie A,,,
+165,Nantes,78.7,11,750ustvk4jfqmo8q4gnrcxy7z,Ligue 1,,,
+166,Internacional,78.6,48,c7n1isjmpyqt5pj51yekr08wo,Brazillian League,,,
+167,Granada,78.6,22,26fes5ubaeq0fk1nay2pj2ob2,La Liga,,,
+172,Arouca,78.5,3,dich5v7sw466smbqap0d9rbyj,Premiere Liga,,,
+174,Boca Juniors,78.4,-8,ciqt22ivoc48zj62detdyh1mm,Argentinian League,,,
+177,São Paulo,78.3,73,5p301ikmaba9gesscss3zo745,Brazillian League,,,
+181,Norwich City,78.3,-1,suz80crpy3anixyzccmu6jzp,Championship,,,
+184,Middlesbrough,78.2,23,cq0jd5ztepqjjeikk5trb15vr,Championship,,,
+185,Botafogo,78.2,98,2x94b2pn1o1tb5l1bbu8x9yu9,Brazillian League,,,
+187,Athletico Paranaense,78.2,52,5h3amvo8ykt01u4h3upw3c5qf,Brazillian League,,,
+198,Le Havre,78.0,7,23pqcgxu1tip265hbe01kszbt,Ligue 1,,,
+199,Mechelen,78.0,9,b7jmo07lqav0wfe2mtlzyspak,Belgian Pro League,,,
+204,West Bromwich Albion,77.9,-31,d1lhefp805y0rcbjqkpu4fq0n,Championship,,,
+205,Metz,77.8,-21,2khen2a38l2hkx33s73pehl6o,Ligue 1,,,
+209,Talleres de Córdoba,77.8,11,ajeh0pq7dtphe0btz4wc4xb0g,Argentinian League,,,
+215,Estudiantes,77.5,-4,91j32z6ga16tjj140ss2i24mt,Argentinian League,,,
+216,Sheffield United,77.5,-18,bws31egwjda253q9lvykgnivo,Premier League,,,
+219,Coventry City,77.4,-38,dacoc20k0n3fxu4zek8wufmko,Championship,,,
+220,RB Bragantino,77.3,52,4ayjm36vlnc5j8jhwpsdwxuph,Brazillian League,,,
+221,Fluminense,77.3,15,2ldx5vhhqfz2rllkgp7wpa744,Brazillian League,,,
+231,Godoy Cruz,77.0,0,1we2nqwg18sjn6cevduuapbkf,Argentinian League,,,
+234,Hull City,76.9,13,f0figafm2v9h8ofo6slajj7xf,Championship,,,
+237,Darmstadt 98,76.8,-16,1y7e48j8swyafegsucvewse5a,Bundesliga,,,
+238,Almería,76.8,-21,cobffe32r7g4skka9m19qib63,La Liga,,,
+243,Bristol City,76.5,6,c5485h5qulh4l0k0py5b9xug1,Championship,,,
+245,Grêmio,76.5,18,1yd80wg4djlmtgkei51x0x4t6,Brazillian League,,,
+246,Utrecht,76.5,-9,ccpscwdcm65czscrun048ecn5,Eredivisie,,,
+250,Fortaleza,76.5,78,1vvaya787s5wg5geudzacya7m,Brazillian League,,,
+256,Sint-Truiden,76.3,-3,2989v3kho9h5jaboe1nr7lx21,Belgian Pro League,,,
+258,Moreirense,76.2,17,4a3yqn3kt1l18oklr7zxo4f1s,Premiere Liga,,,
+260,Vélez Sarsfield,76.2,-1,a3kgi895b7b3ecfzmoyxbw2pl,Argentinian League,,,
+262,Swansea City,76.1,2,410jti6axb01yhvbc0axsp8li,Championship,,,
+265,Corinthians,76.1,92,f0td6lvs326lppbwh1fj8v2ls,Brazillian League,,,
+273,Independiente,75.9,4,ag3u5yhvyaxwtebl9xp5e2vaa,Argentinian League,,,
+274,Defensa y Justicia,75.8,-18,1n4ioqcbh1hemy9ezzu6v86n7,Argentinian League,,,
+276,Argentinos Juniors,75.8,3,7tev5pifn8hdy4vlts0coha1b,Argentinian League,,,
+277,Salernitana,75.8,-22,49rkyo4do8uwj06geomw0xr4i,Serie A,,,
+283,Famalicão,75.6,-17,5c0sf1eaipcxvdw9o22of2jdp,Premiere Liga,,,
+288,Cruzeiro,75.5,85,bd6vujl7jfv4wtc8gvo1o1t5y,Brazillian League,,,
+289,NEC,75.5,-35,8iawijq7s9s6d85mjz8wdslki,Eredivisie,,,
+294,Sporting Charleroi,75.3,15,920raeoumft3q2wmvc296uceo,Belgian Pro League,,,
+300,OH Leuven,75.2,-22,bw9wm8pqfzcchumhiwdt2w15c,Belgian Pro League,,,
+303,Standard Liège,75.1,-4,5z1b7fuvpqe6vnigvopomvecu,Belgian Pro League,,,
+305,Watford,75.1,17,4t83rqbdbekinxl5fz2ygsyta,Championship,,,
+309,Sparta Rotterdam,75.0,2,89w5c6pw7vn0dxypi61tt0g4k,Eredivisie,,,
+310,Bahia,75.0,129,e93fgat6j6g86zqul1m3m2kpn,Brazillian League,,,
+312,Criciúma,75.0,147,9ri292j4uqvn567soly0xrmrx,Brazillian League,,,
+328,Preston North End,74.8,-32,5kq4izdz28qjaxoa6ujclwghj,Championship,,,
+330,Lanús,74.8,23,19ij50t7wklqr3w2bye5r7tp4,Argentinian League,,,
+331,Rio Ave,74.8,-4,cgvbluoerzbzcr7aaxge3wkcv,Premiere Liga,,,
+333,Newell's Old Boys,74.7,5,3oj3koph7uf63y1f9zr8r7ylo,Argentinian League,,,
+343,Sunderland,74.6,-28,1r3545b2dzan8yqa80gtmcjch,Championship,,,
+346,Sheffield Wednesday,74.6,43,1musyruv2ufjrjnj6gvdbr8kt,Championship,,,
+349,Farense,74.6,47,4q3s76lhr7sjib1a40ipix0sa,Premiere Liga,,,
+352,Casa Pia,74.5,7,ewsf6evtguu9j7k6js4tlgl89,Premiere Liga,,,
+356,Stoke City,74.5,30,4qioq44vcv619vnyy2rpovk4e,Championship,,,
+367,Millwall,74.3,4,40d2qd8lr1tgsvmg5l1fzaf4o,Championship,,,
+368,Barracas Central,74.3,-4,8bh6iyg42ta2y8mgkkgd2hy6o,Argentinian League,,,
+371,Gil Vicente,74.3,-15,bwt8yfk8rkcwiwyr0mopd7wqd,Premiere Liga,,,
+375,Juventude,74.2,93,7avb9meepw828qkp0tiugzd1b,Brazillian League,,,
+388,Banfield,73.9,7,3lbqswe4h5wyrayjt580zmujx,Argentinian League,,,
+393,Cuiabá,73.9,17,3oau1zwakraexd8ej8xvtlaqo,Brazillian League,,,
+394,Unión,73.9,3,5o5wtxn03ktvxcdrpxht5aqdp,Argentinian League,,,
+397,San Lorenzo,73.9,2,2sciofe2reang4qdncm1bihgr,Argentinian League,,,
+406,Queens Park Rangers,73.7,77,72nmbktwvcj3wizfp37yjf0dp,Championship,,,
+409,Blackburn Rovers,73.7,-4,ep3im6aygoatju4u3ws8v3mog,Championship,,,
+410,Belgrano,73.7,33,2biw4all5ru5xiorgyqbevwr1,Argentinian League,,,
+414,Huracán,73.7,-1,3rw8ouixzsh3x8dgy8ifev925,Argentinian League,,,
+415,Estoril,73.7,9,22mo7qbsnyi8wtucpvhgvhw2q,Premiere Liga,,,
+416,Rosario Central,73.7,-2,e8ma1lonj51sqmwy00mwnw1ke,Argentinian League,,,
+417,Go Ahead Eagles,73.6,-30,b79uipsy57y1jqpy07h4i5ovk,Eredivisie,,,
+420,Platense,73.6,1,d08q2rnrt7mss1axbuu595tyu,Argentinian League,,,
+433,Santos,73.4,134,1icvp50kgaw8oduqmhyt3iex0,Brazillian League,,,
+435,Instituto,73.4,-2,2zjoq67ogz8lmaoesxkubxhp6,Argentinian League,,,
+438,Vitória,73.3,64,436xob9epu7bzdu7c1zzjjdak,Brazillian League,,,
+453,Atlético Goianiense,73.2,125,441ion913h05bwxctg48884uh,Brazillian League,,,
+456,Westerlo,73.1,-27,2nhn3ikl1ciq34w3hcp883d6p,Belgian Pro League,,,
+465,Cardiff City,73.0,-59,3ash57c0q2tgok6gvzbsta93,Championship,,,
+468,Boavista,73.0,-23,3b4nxgvmwzstmoq6borytkwx1,Premiere Liga,,,
+476,Goiás,73.0,128,5umkgpd22oex45aoco3wqgddl,Brazillian League,,,
+481,Vasco da Gama,72.9,5,5ponlslulpugdlvd93n9yqu2b,Brazillian League,,,
+483,Plymouth Argyle,72.9,-30,5g1fnexeromjl0lvnxp8hpnhi,Championship,,,
+492,Heerenveen,72.7,-27,4vd2t5schmvvufrfib7f2vjdf,Eredivisie,,,
+509,América Mineiro,72.4,141,d0tpuy1w8ckf8iiea01t1aob5,Brazillian League,,,
+514,Birmingham City,72.3,18,8kreqtde5jdktcib0kg7dknac,Championship,,,
+515,Colón,72.3,64,64a7qygl90q6k3319f29fwduo,Argentinian League,,,
+519,Estrela,72.3,-64,85nuf5511v5omdretfoh0c4k4,Premiere Liga,,,
+537,Huddersfield Town,72.1,-3,5n5baro467i8s8efkra3nhgux,Championship,,,
+553,Coritiba,71.9,139,ewfcgj6z5nzaswg3n2qwtmut8,Brazillian League,,,
+555,RWDM,71.9,-60,4kzh86nfubfwsjzerl9pz73kl,Belgian Pro League,,,
+588,Deportivo Riestra,71.5,18,7gcwwr8m5docs6jqrn2stilie,Argentinian League,,,
+600,Central Córdoba SdE,71.4,13,1x5i9dl7uyrh5o2th8ore61e6,Argentinian League,,,
+603,Chaves,71.3,-29,alyavx3ad35bp1xuwmqk7sgev,Premiere Liga,,,
+608,Gimnasia La Plata,71.3,14,1rio0xlpk4s2ttmchsqjs6eik,Argentinian League,,,
+618,Atlético Tucumán,71.2,13,6u0o1i04y2mnw2avru97sn970,Argentinian League,,,
+629,PEC Zwolle,71.0,42,2uuh2bir8ktof0uxfo06lb4ox,Eredivisie,,,
+632,Vizela,71.0,0,7fn0aazbc8nx0u040aulozds1,Premiere Liga,,,
+645,Portimonense,70.9,-57,co1i764h6b02husae71w6scs8,Premiere Liga,,,
+672,Sarmiento,70.7,4,1tsjuhn8qeikaj837w2ybx77n,Argentinian League,,,
+675,Fortuna Sittard,70.7,-48,3ebril33e08ddzob4bhq8awsr,Eredivisie,,,
+690,Heracles,70.5,-50,dac758ef858jbq7pcb3gfwite,Eredivisie,,,
+707,Kortrijk,70.4,56,1uk609mhtsfhokhaewjapb26,Belgian Pro League,,,
+717,Almere City,70.3,-24,1fttb31hnskynpku8qd09yhm8,Eredivisie,,,
+745,Independiente Rivadavia,70.0,5,8inprqnxjps9ckiamn3cfoo8v,Argentinian League,,,
+782,RKC Waalwijk,69.7,-5,ed5nwjz5za3oyi20nxzgqivmx,Eredivisie,,,
+835,Tigre,69.2,13,cs3122cdx3g2nviltzfilmz5c,Argentinian League,,,
+891,Excelsior,68.6,33,dqk062lu0vm8epvytbm6r4mmf,Eredivisie,,,
+910,AS Eupen,68.4,-40,9njsy633rh1tyri7l2jaju5o,Belgian Pro League,,,
+932,Vitesse,68.3,39,6hsriqr3ybvyg94w2k19oal50,Eredivisie,,,
+951,Rotherham United,68.2,-26,6m5s30n9ej0dqfk1hfyrlkhdw,Championship,,,
+1170,Volendam,66.5,-17,6g9qrm72224jrk6tkxxxi8a9n,Eredivisie,,,
